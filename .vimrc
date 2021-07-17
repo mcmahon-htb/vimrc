@@ -103,11 +103,12 @@ Plugin 'scrooloose/nerdtree'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'rking/ag.vim'
 Plugin 'skwp/greplace.vim'
-Plugin 'davidhalter/jedi-vim'
+'Plugin 'davidhalter/jedi-vim'
 Plugin 'ervandew/supertab'
 Plugin 'bling/vim-airline'
 Plugin 'morhetz/gruvbox'
 Plugin 'nvie/vim-flake8'
+Plugin 'ycm-core/YouCompleteMe'
 " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
